@@ -1,0 +1,6 @@
+package ScalaPractice
+
+class TryCatchClasses {
+
+
+}
